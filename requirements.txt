@@ -65,7 +65,7 @@ matplotlib==2.1.2
 mysql-connector==2.1.6
 NearPy==1.0.0
 newsapi-python==0.2.2
-nltk==3.3
+nltk==3.4.5
 numpy==1.14.5
 oauth==1.0.1
 olefile==0.45.1
