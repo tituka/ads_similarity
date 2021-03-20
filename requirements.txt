@@ -46,7 +46,7 @@ httplib2==0.9.2
 idna==2.7
 inflection==0.3.1
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 keyring==10.6.0
 keyrings.alt==3.0
