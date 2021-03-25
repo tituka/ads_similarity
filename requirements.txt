@@ -91,7 +91,7 @@ python-debian==0.1.32
 pytz==2018.5
 pywikibot==3.0.dev0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 reportlab==3.4.0
 requests==2.19.1
 requests-unixsocket==0.1.5
