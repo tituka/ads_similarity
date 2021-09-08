@@ -70,7 +70,7 @@ numpy==1.14.5
 oauth==1.0.1
 olefile==0.45.1
 pexpect==4.2.1
-Pillow==5.1.0
+Pillow==8.3.2
 polyglot==16.7.4
 profanity==1.1
 profanityfilter==2.0.3
